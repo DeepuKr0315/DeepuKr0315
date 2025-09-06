@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I'm **Deepanshu Kumar**<br>🎓 4th Year B.Tech Student | Computer Science Engineering specializing Artificial Intelligence and Machine Learning(AI & ML)<br>🏫 Studying at **Noida Institute of Engineering and Technology**, Greater Noida, UP<br><br>💻 
-### **Current Work**:<br>
+👋 Hi, I'm **Deepanshu Kumar**<br>🎓 4th Year B.Tech Student | Computer Science Engineering specializing Artificial Intelligence and Machine Learning(AI & ML)<br>🏫 Studying at **Noida Institute of Engineering and Technology**, Greater Noida, UP<br><br>
+### 💻 **Current Work**:<br>
 🌟 Exploring Node.js, React, and Firebase to build scalable and robust applications.<br>
 🧠 Learning **Deep Learning (DL)** and experimenting with neural networks<br>
 🧩 Sharpening problem-solving skills through regular **DSA (Data Structures & Algorithms)** practice<br>
-📘 Solving DSA problems on platforms like GeeksforGeeks & **LeetCode**<br><br>🤖 
+📘 Solving DSA problems on platforms like GeeksforGeeks & **LeetCode**<br><br>
 
-### **Past Experience**:<br>
+### 🤖 **Past Experience**:<br>
 Developed multiple Machine Learning projects, leveraging tools like **OpenCV**+ and various Python libraries.<br>
 Focused on real-world applications of AI/ML to solve impactful problems.<br><br>
 
